@@ -1,11 +1,5 @@
-streamlit
-tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-Pillow
-opencv-python-headless
-plotly
-scikit-learn
-kagglehub
+streamlit==1.25.0
+tensorflow==2.12.0
+numpy==1.23.5
+Pillow==9.5.0
+matplotlib==3.7.1
